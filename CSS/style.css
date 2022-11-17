@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 80px;
+}
+h3 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+}
+ul {
+    list-style: none;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+}
+body {
+    background-image:  url(./backgroundPink.png);
+    background-size: cover;
+}
+.bt {
+    border:10px solid black;
+    border-radius:4px;
+    display:inline-block;
+    cursor:pointer;
+    font-family:Verdana;
+    font-weight:bold;
+    font: size 30px;
+    padding:20px 40px;
+    text-decoration:none;
+    
+
+    }
+.button{
+    width: 50%;
+    
+}
+.flex img {
+    max-width: 50px;
+
+
+}
+

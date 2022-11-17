@@ -1,0 +1,10 @@
+- String
+- Number
+- Boolean
+- Array
+- Tupla
+- Enum
+- Any
+- Unknown
+- Null e Undefined
+- Object

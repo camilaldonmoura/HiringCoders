@@ -1,0 +1,25 @@
+{
+  "name": "hiring-coders",
+  "version": "1.0.0",
+  "description": "Primeira fase do Projeto Hiring Coders da Gama Academy + VTEX.\r • HTML\r • CSS\r • Estrutura de Dados\r • JavaScript\r • Typescript\r • React\r • GraphQL\r • Node.JS\r • API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilalnmoura/HiringCoders.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilalnmoura/HiringCoders/issues"
+  },
+  "homepage": "https://github.com/camilalnmoura/HiringCoders#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
